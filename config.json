@@ -1,0 +1,13 @@
+{
+    "output_path": "output",
+    "font_path": "C:/Windows/Fonts/Calibri.ttf",
+    "font_size": 18,
+    "image_size": 128,
+    "primary_coefficient": 100,
+    "secondary_coefficient_subtraction": 1,
+    "count_value": 4,
+    "resource_pack_name": "yacg_custom_gens_pack",
+    "pack_description": "A custom pack generated for Yet Another Custom Generator.",
+    "pack_format_version": 15
+  }
+  

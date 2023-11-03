@@ -1,0 +1,33 @@
+{
+    "basic_building_blocks": {
+      "items": ["minecraft:cobblestone", "minecraft:cobblestone_slab", "minecraft:cobblestone_stairs"],
+      "recipe": {
+        "pattern": ["###", "#C#", "###"],
+        "key": {
+          "#": {"item": "minecraft:cobblestone"},
+          "C": {"item": "minecraft:cobblestone_slab"}
+        }
+      }
+    },
+    "stone_variants": {
+      "items": ["minecraft:cobbled_deepslate", "minecraft:deepslate", "minecraft:dripstone_block"],
+      "recipe": {
+        "pattern": ["DDD", "D#D", "DDD"],
+        "key": {
+          "#": {"item": "minecraft:deepslate"},
+          "D": {"item": "minecraft:dripstone_block"}
+        }
+      }
+    },
+    "precious_blocks": {
+      "items": ["minecraft:gold_ore", "minecraft:diamond_ore", "minecraft:emerald_ore"],
+      "recipe": {
+        "pattern": ["GGG", "GDG", "GGG"],
+        "key": {
+          "G": {"item": "minecraft:gold_ore"},
+          "D": {"item": "minecraft:diamond_ore"}
+        }
+      }
+    }
+  }
+  

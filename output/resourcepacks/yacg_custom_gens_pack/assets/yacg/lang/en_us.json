@@ -1,0 +1,5 @@
+{
+    "block.yacg.basic_building_blocks": "Cobblestone,\nCobblestone Slab,\nCobblestone Stairs",
+    "block.yacg.stone_variants": "Cobbled Deepslate,\nDeepslate,\nDripstone Block",
+    "block.yacg.precious_blocks": "Gold Ore,\nDiamond Ore,\nEmerald Ore"
+}
