@@ -1,5 +1,7 @@
 README for Yet Another Cobblestone Generator (YACG) Resource Pack and Script
 
+![Alt text for the image](https://github.com/zetjiin/yacg-python-custom-generators-script/blob/main/example_result/many%20generators%20with%20their%20own%20textures%20done%20in%2010%20minutes%20tops.png?raw=true)
+
 TL;DR
 -----
 
