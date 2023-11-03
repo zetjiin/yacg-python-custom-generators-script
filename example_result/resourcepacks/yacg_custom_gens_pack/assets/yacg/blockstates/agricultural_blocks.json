@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/agricultural_blocks"}, "facing=east": {"model": "yacg:block/agricultural_blocks", "y": 90}, "facing=south": {"model": "yacg:block/agricultural_blocks", "y": 180}, "facing=west": {"model": "yacg:block/agricultural_blocks", "y": 270}}}

@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/common_stones"}, "facing=east": {"model": "yacg:block/common_stones", "y": 90}, "facing=south": {"model": "yacg:block/common_stones", "y": 180}, "facing=west": {"model": "yacg:block/common_stones", "y": 270}}}

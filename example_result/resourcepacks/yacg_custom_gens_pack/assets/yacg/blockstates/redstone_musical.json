@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/redstone_musical"}, "facing=east": {"model": "yacg:block/redstone_musical", "y": 90}, "facing=south": {"model": "yacg:block/redstone_musical", "y": 180}, "facing=west": {"model": "yacg:block/redstone_musical", "y": 270}}}

@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/nether_naturals"}, "facing=east": {"model": "yacg:block/nether_naturals", "y": 90}, "facing=south": {"model": "yacg:block/nether_naturals", "y": 180}, "facing=west": {"model": "yacg:block/nether_naturals", "y": 270}}}

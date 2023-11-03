@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/log_variants_1/bottom", "east": "yacg:block/log_variants_1/side", "north": "yacg:block/log_variants_1/front", "south": "yacg:block/log_variants_1/back", "up": "yacg:block/log_variants_1/top", "west": "yacg:block/log_variants_1/side", "particle": "yacg:block/log_variants_1/side"}}

@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/modern_alloys"}, "facing=east": {"model": "yacg:block/modern_alloys", "y": 90}, "facing=south": {"model": "yacg:block/modern_alloys", "y": 180}, "facing=west": {"model": "yacg:block/modern_alloys", "y": 270}}}

@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/light_sources/bottom", "east": "yacg:block/light_sources/side", "north": "yacg:block/light_sources/front", "south": "yacg:block/light_sources/back", "up": "yacg:block/light_sources/top", "west": "yacg:block/light_sources/side", "particle": "yacg:block/light_sources/side"}}

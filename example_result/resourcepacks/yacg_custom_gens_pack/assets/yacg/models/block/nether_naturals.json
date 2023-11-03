@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/nether_naturals/bottom", "east": "yacg:block/nether_naturals/side", "north": "yacg:block/nether_naturals/front", "south": "yacg:block/nether_naturals/back", "up": "yacg:block/nether_naturals/top", "west": "yacg:block/nether_naturals/side", "particle": "yacg:block/nether_naturals/side"}}

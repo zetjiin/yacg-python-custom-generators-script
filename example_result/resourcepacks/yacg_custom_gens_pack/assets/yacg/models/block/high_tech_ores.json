@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/high_tech_ores/bottom", "east": "yacg:block/high_tech_ores/side", "north": "yacg:block/high_tech_ores/front", "south": "yacg:block/high_tech_ores/back", "up": "yacg:block/high_tech_ores/top", "west": "yacg:block/high_tech_ores/side", "particle": "yacg:block/high_tech_ores/side"}}

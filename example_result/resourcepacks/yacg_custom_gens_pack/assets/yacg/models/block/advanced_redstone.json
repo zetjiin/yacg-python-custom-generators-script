@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/advanced_redstone/bottom", "east": "yacg:block/advanced_redstone/side", "north": "yacg:block/advanced_redstone/front", "south": "yacg:block/advanced_redstone/back", "up": "yacg:block/advanced_redstone/top", "west": "yacg:block/advanced_redstone/side", "particle": "yacg:block/advanced_redstone/side"}}

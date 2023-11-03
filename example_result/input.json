@@ -1,0 +1,534 @@
+{
+  "basic_building_blocks": {
+    "items": ["minecraft:cobblestone", "minecraft:cobblestone_slab", "minecraft:cobblestone_stairs"],
+ 
+    "recipe": {
+      "pattern": [  "KKK",   "KCK",   "KKK"
+      ], "key": {
+        "K": {
+          "item": "minecraft:cobblestone"
+        },   "C": {
+          "item": "minecraft:cobblestone_slab"
+        }
+      }
+    }
+  }, 
+  "stone_variants": {
+    "items": ["minecraft:cobbled_deepslate", "minecraft:deepslate", "minecraft:dripstone_block"],
+ 
+    "recipe": {
+      "pattern": [  "DDD",   "DKD",   "DDD"
+      ], "key": {
+        "K": {
+          "item": "minecraft:deepslate"
+        },   "D": {
+          "item": "minecraft:dripstone_block"
+        }
+      }
+    }
+  }, 
+  "precious_blocks": {
+    "items": ["minecraft:gold_ore", "minecraft:diamond_ore", "minecraft:emerald_ore"],
+ 
+    "recipe": {
+      "pattern": [  "GGG",   "GDG",   "GGG"
+      ], "key": {
+        "G": {
+          "item": "minecraft:gold_ore"
+        },   "D": {
+          "item": "minecraft:diamond_ore"
+        }
+      }
+    }
+  }, 
+  "common_stones": {
+    "items": ["minecraft:andesite", "minecraft:granite", "minecraft:diorite"],
+ 
+    "recipe": {
+      "pattern": [  "AAA",   "AGA",   "AAA"
+      ], "key": {
+        "A": {
+          "item": "minecraft:andesite"
+        },   "G": {
+          "item": "minecraft:granite"
+        }
+      }
+    }
+  }, 
+  "crafting_utilities": {
+    "items": ["minecraft:furnace", "minecraft:crafting_table", "minecraft:anvil"],
+ 
+    "recipe": {
+      "pattern": [  "FFF",   "FCF",   "FFF"
+      ], "key": {
+        "F": {
+          "item": "minecraft:furnace"
+        },   "C": {
+          "item": "minecraft:crafting_table"
+        }
+      }
+    }
+  }, 
+  "storage_solutions": {
+    "items": ["minecraft:chest", "minecraft:trapped_chest", "more_chests:netherite_chest"],
+ 
+    "recipe": {
+      "pattern": [  "CCC",   "CNC",   "CCC"
+      ], "key": {
+        "C": {
+          "item": "minecraft:chest"
+        },   "N": {
+          "item": "more_chests:netherite_chest"
+        }
+      }
+    }
+  }, 
+  "basic_redstone": {
+    "items": ["minecraft:redstone", "minecraft:lever", "minecraft:redstone_torch"],
+ 
+    "recipe": {
+      "pattern": [  "RRR",   "RLR",   "RRR"
+      ], "key": {
+        "R": {
+          "item": "minecraft:redstone"
+        },   "L": {
+          "item": "minecraft:lever"
+        }
+      }
+    }
+  }, 
+  "dynamic_redstone": {
+    "items": ["minecraft:piston", "minecraft:sticky_piston", "minecraft:slime_block"],
+ 
+    "recipe": {
+      "pattern": [  "PPP",   "PSP",   "PPP"
+      ], "key": {
+        "P": {
+          "item": "minecraft:piston"
+        },   "S": {
+          "item": "minecraft:sticky_piston"
+        }
+      }
+    }
+  }, 
+  "interactive_redstone": {
+    "items": ["minecraft:dispenser", "minecraft:dropper", "minecraft:hopper"],
+ 
+    "recipe": {
+      "pattern": [  "DDD",   "DHD",   "DDD"
+      ], "key": {
+        "D": {
+          "item": "minecraft:dispenser"
+        },   "H": {
+          "item": "minecraft:hopper"
+        }
+      }
+    }
+  }, 
+  "advanced_redstone": {
+    "items": ["minecraft:observer", "minecraft:repeater", "minecraft:comparator"],
+ 
+    "recipe": {
+      "pattern": [  "OOO",   "ORO",   "OOO"
+      ], "key": {
+        "O": {
+          "item": "minecraft:observer"
+        },   "R": {
+          "item": "minecraft:repeater"
+        }
+      }
+    }
+  }, 
+  "redstone_activators": {
+    "items": ["minecraft:stone_button", "minecraft:wooden_button", "minecraft:stone_pressure_plate"],
+ 
+    "recipe": {
+      "pattern": [  "BBB",   "BSB",   "BBB"
+      ], "key": {
+        "B": {
+          "item": "minecraft:stone_button"
+        },   "S": {
+          "item": "minecraft:stone_pressure_plate"
+        }
+      }
+    }
+  }, 
+  "weighted_redstone": {
+    "items": ["minecraft:light_weighted_pressure_plate", "minecraft:heavy_weighted_pressure_plate", "minecraft:daylight_detector"],
+ 
+    "recipe": {
+      "pattern": [  "LLL",   "LHL",   "LLL"
+      ], "key": {
+        "L": {
+          "item": "minecraft:light_weighted_pressure_plate"
+        },   "H": {
+          "item": "minecraft:heavy_weighted_pressure_plate"
+        }
+      }
+    }
+  }, 
+  "redstone_musical": {
+    "items": ["minecraft:note_block", "minecraft:target", "minecraft:tripwire_hook"],
+ 
+    "recipe": {
+      "pattern": [  "NNN",   "NTN",   "NNN"
+      ], "key": {
+        "N": {
+          "item": "minecraft:note_block"
+        },   "T": {
+          "item": "minecraft:target"
+        }
+      }
+    }
+  }, 
+  "redstone_power_sources": {
+    "items": ["minecraft:tnt", "minecraft:redstone_block", "minecraft:redstone_lamp"],
+ 
+    "recipe": {
+      "pattern": [  "TTT",   "TRT",   "TTT"
+      ], "key": {
+        "T": {
+          "item": "minecraft:tnt"
+        },   "R": {
+          "item": "minecraft:redstone_block"
+        }
+      }
+    }
+  }, 
+  "transportation_blocks": {
+    "items": ["minecraft:rails", "minecraft:minecart", "playerplates:invisible_obsidian_plate"],
+ 
+    "recipe": {
+      "pattern": [  "RRR",   "RMR",   "RRR"
+      ], "key": {
+        "R": {
+          "item": "minecraft:rails"
+        },   "M": {
+          "item": "minecraft:minecart"
+        }
+      }
+    }
+  }, 
+  "colorful_decorations": {
+    "items": ["minecraft:blue_ice", "minecraft:terracotta", "minecraft:concrete"],
+ 
+    "recipe": {
+      "pattern": [  "TTT",   "TCT",   "TTT"
+      ], "key": {
+        "T": {
+          "item": "minecraft:terracotta"
+        },   "C": {
+          "item": "minecraft:concrete"
+        }
+      }
+    }
+  }, 
+  "rare_ores": {
+    "items": ["modern_industrialization:antimony_ore", "techreborn:tin_ore", "create:zinc_ore"],
+ 
+    "recipe": {
+      "pattern": [  "AAA",   "AZA",   "AAA"
+      ], "key": {
+        "A": {
+          "item": "modern_industrialization:antimony_ore"
+        },   "Z": {
+          "item": "create:zinc_ore"
+        }
+      }
+    }
+  }, 
+  "gem_ores": {
+    "items": ["techreborn:ruby_ore", "techreborn:sapphire_ore", "techreborn:peridot_ore"],
+ 
+    "recipe": {
+      "pattern": [  "RRR",   "RSR",   "RRR"
+      ], "key": {
+        "R": {
+          "item": "techreborn:ruby_ore"
+        },   "S": {
+          "item": "techreborn:sapphire_ore"
+        }
+      }
+    }
+  }, 
+  "alloy_ores": {
+    "items": ["techreborn:bauxite_ore", "techreborn:silver_ore"],
+ 
+    "recipe": {
+      "pattern": [  "BBB",   "BSB",   "BBB"
+      ], "key": {
+        "B": {
+          "item": "techreborn:bauxite_ore"
+        },   "S": {
+          "item": "techreborn:silver_ore"
+        }
+      }
+    }
+  }, 
+  "high_tech_ores": {
+    "items": ["techreborn:galena_ore", "techreborn:iridium_ore", "techreborn:lead_ore"],
+ 
+    "recipe": {
+      "pattern": [  "GGG",   "GIG",   "GGG"
+      ], "key": {
+        "G": {
+          "item": "techreborn:galena_ore"
+        },   "I": {
+          "item": "techreborn:iridium_ore"
+        }
+      }
+    }
+  }, 
+  "modern_alloys": {
+    "items": ["modern_industrialization:platinum_ore", "modern_industrialization:quartz_ore", "modern_industrialization:salt_ore"],
+ 
+    "recipe": {
+      "pattern": [  "PPP",   "PQP",   "PPP"
+      ], "key": {
+        "P": {
+          "item": "modern_industrialization:platinum_ore"
+        },   "Q": {
+          "item": "modern_industrialization:quartz_ore"
+        }
+      }
+    }
+  }, 
+  "common_ores": {
+    "items": ["minecraft:coal_ore", "minecraft:copper_ore", "minecraft:lapis_ore"],
+ 
+    "recipe": {
+      "pattern": [  "CCC",   "CLC",   "CCC"
+      ], "key": {
+        "C": {
+          "item": "minecraft:coal_ore"
+        },   "L": {
+          "item": "minecraft:lapis_ore"
+        }
+      }
+    }
+  }, 
+  "sandstone_variants": {
+    "items": ["minecraft:sandstone", "minecraft:red_sandstone"],
+ 
+    "recipe": {
+      "pattern": [  "SSS",   "SRS",   "SSS"
+      ], "key": {
+        "S": {
+          "item": "minecraft:sandstone"
+        },   "R": {
+          "item": "minecraft:red_sandstone"
+        }
+      }
+    }
+  }, 
+  "miscellaneous_items": {
+    "items": ["minecraft:sponge", "minecraft:bucket"],
+ 
+    "recipe": {
+      "pattern": [  "SSS",   "SBS",   "SSS"
+      ], "key": {
+        "S": {
+          "item": "minecraft:sponge"
+        },   "B": {
+          "item": "minecraft:bucket"
+        }
+      }
+    }
+  }, 
+  "liquid_containers": {
+    "items": ["minecraft:water_bucket", "minecraft:lava_bucket"],
+ 
+    "recipe": {
+      "pattern": [  "WWW",   "WLW",   "WWW"
+      ], "key": {
+        "W": {
+          "item": "minecraft:water_bucket"
+        },   "L": {
+          "item": "minecraft:lava_bucket"
+        }
+      }
+    }
+  }, 
+  "agricultural_blocks": {
+    "items": ["minecraft:podzol", "minecraft:mycelium", "minecraft:clay"],
+ 
+    "recipe": {
+      "pattern": [  "PPP",   "PMP",   "PPP"
+      ], "key": {
+        "P": {
+          "item": "minecraft:podzol"
+        },   "M": {
+          "item": "minecraft:mycelium"
+        }
+      }
+    }
+  }, 
+  "nether_naturals": {
+    "items": ["minecraft:netherrack", "minecraft:soul_sand", "minecraft:basalt"],
+ 
+    "recipe": {
+      "pattern": [  "NNN",   "NSN",   "NNN"
+      ], "key": {
+        "N": {
+          "item": "minecraft:netherrack"
+        },   "S": {
+          "item": "minecraft:soul_sand"
+        }
+      }
+    }
+  }, 
+  "end_dimensions": {
+    "items": ["minecraft:end_stone", "minecraft:purpur_block", "minecraft:end_rod"],
+ 
+    "recipe": {
+      "pattern": [  "EEE",   "EPE",   "EEE"
+      ], "key": {
+        "E": {
+          "item": "minecraft:end_stone"
+        },   "P": {
+          "item": "minecraft:purpur_block"
+        }
+      }
+    }
+  }, 
+  "heavy_blocks": {
+    "items": ["minecraft:obsidian", "minecraft:bone_block", "minecraft:ancient_debris"],
+ 
+    "recipe": {
+      "pattern": [  "OOO",   "OBO",   "OOO"
+      ], "key": {
+        "O": {
+          "item": "minecraft:obsidian"
+        },   "B": {
+          "item": "minecraft:bone_block"
+        }
+      }
+    }
+  }, 
+  "light_sources": {
+    "items": ["minecraft:beacon", "minecraft:glowstone"],
+ 
+    "recipe": {
+      "pattern": [  "GGG",   "GBG",   "GGG"
+      ], "key": {
+        "G": {
+          "item": "minecraft:glowstone"
+        },   "B": {
+          "item": "minecraft:beacon"
+        }
+      }
+    }
+  }, 
+  "log_variants_1": {
+    "items": ["minecraft:oak_log", "minecraft:spruce_log", "minecraft:birch_log"],
+ 
+    "recipe": {
+      "pattern": [  "OOO",   "OSO",   "OOO"
+      ], "key": {
+        "O": {
+          "item": "minecraft:oak_log"
+        },   "S": {
+          "item": "minecraft:spruce_log"
+        }
+      }
+    }
+  }, 
+  "log_variants_2": {
+    "items": ["minecraft:jungle_log", "minecraft:acacia_log", "minecraft:dark_oak_log"],
+ 
+    "recipe": {
+      "pattern": [  "JJJ",   "JAJ",   "JJJ"
+      ], "key": {
+        "J": {
+          "item": "minecraft:jungle_log"
+        },   "A": {
+          "item": "minecraft:acacia_log"
+        }
+      }
+    }
+  }, 
+  "light_wools": {
+    "items": ["minecraft:white_wool", "minecraft:light_gray_wool", "minecraft:yellow_wool"],
+ 
+    "recipe": {
+      "pattern": [  "WWW",   "WYW",   "WWW"
+      ], "key": {
+        "W": {
+          "item": "minecraft:white_wool"
+        },   "Y": {
+          "item": "minecraft:yellow_wool"
+        }
+      }
+    }
+  }, 
+  "neutral_wools": {
+    "items": ["minecraft:gray_wool", "minecraft:black_wool", "minecraft:brown_wool"],
+ 
+    "recipe": {
+      "pattern": [  "GGG",   "GBG",   "GGG"
+      ], "key": {
+        "G": {
+          "item": "minecraft:gray_wool"
+        },   "B": {
+          "item": "minecraft:black_wool"
+        }
+      }
+    }
+  }, 
+  "green_wools": {
+    "items": ["minecraft:green_wool", "minecraft:lime_wool"],
+ 
+    "recipe": {
+      "pattern": [  "LLL",   "LGL",   "LLL"
+      ], "key": {
+        "L": {
+          "item": "minecraft:lime_wool"
+        },   "G": {
+          "item": "minecraft:green_wool"
+        }
+      }
+    }
+  }, 
+  "red_wools": {
+    "items": ["minecraft:red_wool", "minecraft:pink_wool"],
+ 
+    "recipe": {
+      "pattern": [  "RRR",   "RPR",   "RRR"
+      ], "key": {
+        "R": {
+          "item": "minecraft:red_wool"
+        },   "P": {
+          "item": "minecraft:pink_wool"
+        }
+      }
+    }
+  }, 
+  "blue_wools": {
+    "items": ["minecraft:blue_wool", "minecraft:light_blue_wool", "minecraft:cyan_wool"],
+ 
+    "recipe": {
+      "pattern": [  "BBB",   "BLB",   "BBB"
+      ], "key": {
+        "B": {
+          "item": "minecraft:blue_wool"
+        },   "L": {
+          "item": "minecraft:light_blue_wool"
+        }
+      }
+    }
+  }, 
+  "vibrant_wools": {
+    "items": ["minecraft:orange_wool", "minecraft:magenta_wool", "minecraft:purple_wool"],
+ 
+    "recipe": {
+      "pattern": [  "MMM",   "MOM",   "MMM"
+      ], "key": {
+        "M": {
+          "item": "minecraft:magenta_wool"
+        },   "O": {
+          "item": "minecraft:orange_wool"
+        }
+      }
+    }
+  }
+}

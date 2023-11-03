@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/weighted_redstone/bottom", "east": "yacg:block/weighted_redstone/side", "north": "yacg:block/weighted_redstone/front", "south": "yacg:block/weighted_redstone/back", "up": "yacg:block/weighted_redstone/top", "west": "yacg:block/weighted_redstone/side", "particle": "yacg:block/weighted_redstone/side"}}

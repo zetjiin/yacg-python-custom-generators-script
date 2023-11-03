@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/redstone_musical/bottom", "east": "yacg:block/redstone_musical/side", "north": "yacg:block/redstone_musical/front", "south": "yacg:block/redstone_musical/back", "up": "yacg:block/redstone_musical/top", "west": "yacg:block/redstone_musical/side", "particle": "yacg:block/redstone_musical/side"}}

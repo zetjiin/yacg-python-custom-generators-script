@@ -1,0 +1,716 @@
+{
+    "generators": {
+        "basic_building_blocks": [
+            {
+                "itemId": "minecraft:cobblestone",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:cobblestone_slab",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:cobblestone_stairs",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "stone_variants": [
+            {
+                "itemId": "minecraft:cobbled_deepslate",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:deepslate",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:dripstone_block",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "precious_blocks": [
+            {
+                "itemId": "minecraft:gold_ore",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:diamond_ore",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:emerald_ore",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "common_stones": [
+            {
+                "itemId": "minecraft:andesite",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:granite",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:diorite",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "crafting_utilities": [
+            {
+                "itemId": "minecraft:furnace",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:crafting_table",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:anvil",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "storage_solutions": [
+            {
+                "itemId": "minecraft:chest",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:trapped_chest",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "more_chests:netherite_chest",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "basic_redstone": [
+            {
+                "itemId": "minecraft:redstone",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:lever",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:redstone_torch",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "dynamic_redstone": [
+            {
+                "itemId": "minecraft:piston",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:sticky_piston",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:slime_block",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "interactive_redstone": [
+            {
+                "itemId": "minecraft:dispenser",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:dropper",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:hopper",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "advanced_redstone": [
+            {
+                "itemId": "minecraft:observer",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:repeater",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:comparator",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "redstone_activators": [
+            {
+                "itemId": "minecraft:stone_button",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:wooden_button",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:stone_pressure_plate",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "weighted_redstone": [
+            {
+                "itemId": "minecraft:light_weighted_pressure_plate",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:heavy_weighted_pressure_plate",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:daylight_detector",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "redstone_musical": [
+            {
+                "itemId": "minecraft:note_block",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:target",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:tripwire_hook",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "redstone_power_sources": [
+            {
+                "itemId": "minecraft:tnt",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:redstone_block",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:redstone_lamp",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "transportation_blocks": [
+            {
+                "itemId": "minecraft:rails",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:minecart",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "playerplates:invisible_obsidian_plate",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "colorful_decorations": [
+            {
+                "itemId": "minecraft:blue_ice",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:terracotta",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:concrete",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "rare_ores": [
+            {
+                "itemId": "modern_industrialization:antimony_ore",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "techreborn:tin_ore",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "create:zinc_ore",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "gem_ores": [
+            {
+                "itemId": "techreborn:ruby_ore",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "techreborn:sapphire_ore",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "techreborn:peridot_ore",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "alloy_ores": [
+            {
+                "itemId": "techreborn:bauxite_ore",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "techreborn:silver_ore",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "high_tech_ores": [
+            {
+                "itemId": "techreborn:galena_ore",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "techreborn:iridium_ore",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "techreborn:lead_ore",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "modern_alloys": [
+            {
+                "itemId": "modern_industrialization:platinum_ore",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "modern_industrialization:quartz_ore",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "modern_industrialization:salt_ore",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "common_ores": [
+            {
+                "itemId": "minecraft:coal_ore",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:copper_ore",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:lapis_ore",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "sandstone_variants": [
+            {
+                "itemId": "minecraft:sandstone",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:red_sandstone",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "miscellaneous_items": [
+            {
+                "itemId": "minecraft:sponge",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:bucket",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "liquid_containers": [
+            {
+                "itemId": "minecraft:water_bucket",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:lava_bucket",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "agricultural_blocks": [
+            {
+                "itemId": "minecraft:podzol",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:mycelium",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:clay",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "nether_naturals": [
+            {
+                "itemId": "minecraft:netherrack",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:soul_sand",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:basalt",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "end_dimensions": [
+            {
+                "itemId": "minecraft:end_stone",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:purpur_block",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:end_rod",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "heavy_blocks": [
+            {
+                "itemId": "minecraft:obsidian",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:bone_block",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:ancient_debris",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "light_sources": [
+            {
+                "itemId": "minecraft:beacon",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:glowstone",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "log_variants_1": [
+            {
+                "itemId": "minecraft:oak_log",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:spruce_log",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:birch_log",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "log_variants_2": [
+            {
+                "itemId": "minecraft:jungle_log",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:acacia_log",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:dark_oak_log",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "light_wools": [
+            {
+                "itemId": "minecraft:white_wool",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:light_gray_wool",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:yellow_wool",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "neutral_wools": [
+            {
+                "itemId": "minecraft:gray_wool",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:black_wool",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:brown_wool",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "green_wools": [
+            {
+                "itemId": "minecraft:green_wool",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:lime_wool",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "red_wools": [
+            {
+                "itemId": "minecraft:red_wool",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:pink_wool",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "blue_wools": [
+            {
+                "itemId": "minecraft:blue_wool",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:light_blue_wool",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:cyan_wool",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "vibrant_wools": [
+            {
+                "itemId": "minecraft:orange_wool",
+                "coefficient": 100,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:magenta_wool",
+                "coefficient": 99,
+                "count": 4
+            },
+            {
+                "itemId": "minecraft:purple_wool",
+                "coefficient": 99,
+                "count": 4
+            }
+        ],
+        "cobble": [
+            {
+                "itemId": "minecraft:cobblestone",
+                "coefficient": 100,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:cobbled_deepslate",
+                "coefficient": 30,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:mossy_cobblestone",
+                "coefficient": 10,
+                "count": 1
+            }
+        ],
+        "ore": [
+            {
+                "itemId": "minecraft:coal_ore",
+                "coefficient": 100,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:copper_ore",
+                "coefficient": 70,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:iron_ore",
+                "coefficient": 50,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:gold_ore",
+                "coefficient": 30,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:redstone_ore",
+                "coefficient": 20,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:lapis_ore",
+                "coefficient": 20,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:diamond_ore",
+                "coefficient": 15,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:emerald_ore",
+                "coefficient": 10,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:nether_quartz_ore",
+                "coefficient": 5,
+                "count": 1
+            }
+        ],
+        "stone": [
+            {
+                "itemId": "minecraft:stone",
+                "coefficient": 100,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:diorite",
+                "coefficient": 50,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:granite",
+                "coefficient": 50,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:andesite",
+                "coefficient": 50,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:calcite",
+                "coefficient": 20,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:dripstone_block",
+                "coefficient": 20,
+                "count": 1
+            },
+            {
+                "itemId": "minecraft:deepslate",
+                "coefficient": 5,
+                "count": 1
+            }
+        ]
+    }
+}

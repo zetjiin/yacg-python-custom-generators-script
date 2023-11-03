@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/basic_redstone"}, "facing=east": {"model": "yacg:block/basic_redstone", "y": 90}, "facing=south": {"model": "yacg:block/basic_redstone", "y": 180}, "facing=west": {"model": "yacg:block/basic_redstone", "y": 270}}}

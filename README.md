@@ -9,10 +9,10 @@ To customize your Minecraft cobblestone generators:
 2.  Install the KubeJS and YACG mods in Minecraft.
 3.  Configure the `input.json` and `config.json` files.
 4.  Run the Python script to generate your resource pack and scripts.
-5.  Place the output folders into your Minecraft instance folder
+5.  Place the output directorys into your Minecraft instance directory
 6.  (optional) If you want, replace the textures in the resource pack with your own textures, it's pretty easy to do.
-	- to help with this I created secondary script in secondary_script_to_generate_images folder
-	
+	- to help with this I created secondary script in secondary_script_to_generate_images directory
+(you can see example of both scripts in action in example_results directory)
 Enjoy your customized generators in Minecraft!
 Thanks to the https://github.com/syorito-hatsuki for making this possible!
 
@@ -151,7 +151,7 @@ Troubleshooting
 If you encounter any issues while using the script, such as errors during execution or problems with the generated resource pack, please refer to the following troubleshooting tips:
 
 - Ensure that you have the correct version of Python installed and that the Pillow library is up to date.
-- Check that the Minecraft mods are compatible with your version of Minecraft and are correctly installed in your instance folder.
+- Check that the Minecraft mods are compatible with your version of Minecraft and are correctly installed in your instance directory.
 - If you encounter any path-related issues, ensure that the paths specified in `config.json` are absolute and correctly formatted for your operating system.
 - Make sure that the namespaces are correct, the mods for those namespaces installed, and there are no typos in the input or config files.
 

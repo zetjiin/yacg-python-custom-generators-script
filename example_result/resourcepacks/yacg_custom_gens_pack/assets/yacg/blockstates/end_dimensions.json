@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/end_dimensions"}, "facing=east": {"model": "yacg:block/end_dimensions", "y": 90}, "facing=south": {"model": "yacg:block/end_dimensions", "y": 180}, "facing=west": {"model": "yacg:block/end_dimensions", "y": 270}}}

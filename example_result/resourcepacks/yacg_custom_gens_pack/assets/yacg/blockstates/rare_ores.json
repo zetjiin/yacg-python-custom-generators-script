@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/rare_ores"}, "facing=east": {"model": "yacg:block/rare_ores", "y": 90}, "facing=south": {"model": "yacg:block/rare_ores", "y": 180}, "facing=west": {"model": "yacg:block/rare_ores", "y": 270}}}

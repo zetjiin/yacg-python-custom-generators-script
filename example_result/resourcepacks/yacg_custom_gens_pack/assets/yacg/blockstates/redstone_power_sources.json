@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/redstone_power_sources"}, "facing=east": {"model": "yacg:block/redstone_power_sources", "y": 90}, "facing=south": {"model": "yacg:block/redstone_power_sources", "y": 180}, "facing=west": {"model": "yacg:block/redstone_power_sources", "y": 270}}}

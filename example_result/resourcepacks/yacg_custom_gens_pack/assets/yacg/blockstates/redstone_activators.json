@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/redstone_activators"}, "facing=east": {"model": "yacg:block/redstone_activators", "y": 90}, "facing=south": {"model": "yacg:block/redstone_activators", "y": 180}, "facing=west": {"model": "yacg:block/redstone_activators", "y": 270}}}

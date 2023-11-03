@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/gem_ores/bottom", "east": "yacg:block/gem_ores/side", "north": "yacg:block/gem_ores/front", "south": "yacg:block/gem_ores/back", "up": "yacg:block/gem_ores/top", "west": "yacg:block/gem_ores/side", "particle": "yacg:block/gem_ores/side"}}

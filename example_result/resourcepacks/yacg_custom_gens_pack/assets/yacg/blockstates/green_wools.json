@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "yacg:block/green_wools"}, "facing=east": {"model": "yacg:block/green_wools", "y": 90}, "facing=south": {"model": "yacg:block/green_wools", "y": 180}, "facing=west": {"model": "yacg:block/green_wools", "y": 270}}}

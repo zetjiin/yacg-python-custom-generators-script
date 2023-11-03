@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/agricultural_blocks/bottom", "east": "yacg:block/agricultural_blocks/side", "north": "yacg:block/agricultural_blocks/front", "south": "yacg:block/agricultural_blocks/back", "up": "yacg:block/agricultural_blocks/top", "west": "yacg:block/agricultural_blocks/side", "particle": "yacg:block/agricultural_blocks/side"}}

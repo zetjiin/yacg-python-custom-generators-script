@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/crafting_utilities/bottom", "east": "yacg:block/crafting_utilities/side", "north": "yacg:block/crafting_utilities/front", "south": "yacg:block/crafting_utilities/back", "up": "yacg:block/crafting_utilities/top", "west": "yacg:block/crafting_utilities/side", "particle": "yacg:block/crafting_utilities/side"}}

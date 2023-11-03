@@ -1,0 +1,1 @@
+{"parent": "block/cube_all", "textures": {"down": "yacg:block/modern_alloys/bottom", "east": "yacg:block/modern_alloys/side", "north": "yacg:block/modern_alloys/front", "south": "yacg:block/modern_alloys/back", "up": "yacg:block/modern_alloys/top", "west": "yacg:block/modern_alloys/side", "particle": "yacg:block/modern_alloys/side"}}
