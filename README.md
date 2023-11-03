@@ -11,7 +11,8 @@ To customize your Minecraft cobblestone generators:
 4.  Run the Python script to generate your resource pack and scripts.
 5.  Place the output folders into your Minecraft instance folder
 6.  (optional) If you want, replace the textures in the resource pack with your own textures, it's pretty easy to do.
-
+	- to help with this I created secondary script in secondary_script_to_generate_images folder
+	
 Enjoy your customized generators in Minecraft!
 Thanks to the https://github.com/syorito-hatsuki for making this possible!
 
